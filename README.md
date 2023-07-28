@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arón and I'm a Front end Developer, from Perú.</p>
+<p align="left">My name is Arón and I'm a Front end Developer React, from Perú.</p>
 
 ###
 
@@ -63,9 +63,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Bagse/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Bagse/Bagse/output/snake.svg" alt="Snake animation" />
 
 ###
