@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning React JS<br>🎯 Goals: Getting my first IT job<br>🎲 Fun fact: The first website in history is still online</p>
+<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning Astro<br>🎯 Goals: Getting my first IT job<br>🎲 Fun fact: The first website in history is still online</p>
 
 ###
 
