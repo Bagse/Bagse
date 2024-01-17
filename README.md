@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arón and I'm a React Front end Developer, from Peru.</p>
+<p align="left">My name is Arón Gómez and I'm a React Front End Developer, from Peru.</p>
 
 ###
 
